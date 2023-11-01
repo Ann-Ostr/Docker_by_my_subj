@@ -2,7 +2,7 @@
 
 from http import HTTPStatus
 
-from api import model
+from api import models
 from django.test import Client, TestCase
 
 

@@ -2,8 +2,8 @@
 
 from http import HTTPStatus
 
+from api import model
 from django.test import Client, TestCase
-from api import models
 
 
 class TaskiAPITestCase(TestCase):
